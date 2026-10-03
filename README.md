@@ -1,0 +1,2 @@
+# golangdasar
+memahi bahasa golang
